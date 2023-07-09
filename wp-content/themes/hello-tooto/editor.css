@@ -1,0 +1,23 @@
+/**
+ * Style for the tooto customizer.
+ */
+.tooto-panel-menu-item-hello-settings-header {
+  margin-top: 15px;
+  border-radius: 6px 6px 0 0; }
+
+.tooto-panel-menu-item-theme-style-form-fields {
+  border-radius: 0 0 6px 6px; }
+
+.hello-tooto.tooto-nerd-box .tooto-nerd-box-icon {
+  margin: 0; }
+
+.hello-tooto.tooto-nerd-box .tooto-nerd-box-message .tooto-nerd-box-title {
+  margin: 24px 0 0;
+  font-size: 16px; }
+
+.hello-tooto.tooto-nerd-box .tooto-nerd-box-message .tooto-nerd-box-message {
+  margin: 12px 0 0;
+  font-size: 11px; }
+
+.hello-tooto.tooto-nerd-box .tooto-nerd-box-link {
+  margin: 24px 0 0; }

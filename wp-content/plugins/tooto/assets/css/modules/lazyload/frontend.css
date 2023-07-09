@@ -1,0 +1,15 @@
+/* 
+TODO: Temp fix - Need to unify the background & lazy-load selectors.
+This fix accounts for the DOM experiment & motion fx changes, that are already fixed in the background
+selector itself (which is the reason we need to unify it).
+*/
+.lazyloaded:not(.tooto-motion-effects-element-type-background),
+.lazyloaded > .tooto-motion-effects-container > .tooto-motion-effects-layer,
+.lazyloaded > [class*=-wrap] > .tooto-motion-effects-container > .tooto-motion-effects-layer,
+body.e-lazyload .lazyloaded .tooto-background-overlay,
+body.e-lazyload .e-con.lazyloaded::before,
+body.e-lazyload .lazyloaded {
+  --e-bg-lazyload-loaded: var(--e-bg-lazyload);
+}
+
+/*# sourceMappingURL=frontend.css.map */
