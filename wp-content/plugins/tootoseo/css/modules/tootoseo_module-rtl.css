@@ -1,0 +1,319 @@
+* {
+	direction: rtl !important
+}
+
+.form-table.tootoseo {
+	clear: none
+}
+
+.form-table.tootoseo th {
+	padding: 10px 9px 12px 0;
+	direction: rtl
+}
+
+.tootoseo_help_text_link,
+.tootoseo_help_text_link:active {
+	text-align: right;
+	float: right
+}
+
+.tootoseo_help_text_link span {
+	left: -60px;
+}
+
+.tootoseo_meta_box_help > label {
+	margin-left: 0;
+	margin-right: 8px
+}
+
+.tootoseo_help_text_link img {
+	float: left
+}
+
+.tootoseo_meta_box_help,
+.tootoseo_meta_box_help:active {
+	float: left;
+	padding-left: 0;
+	margin-right: 0;
+	margin-left: 64px
+}
+
+.tootoseo_label {
+	padding-left: 0;
+	padding-right: 20px;
+	text-align: right;
+	direction: rtl
+}
+
+.tootoseo input[type="text"] {
+	padding: 2px 10px 2px 0
+}
+
+.tootoseo textarea {
+	padding: 10px 10px 0 0
+}
+
+.tootoseo_help_text_div {
+	text-align: right;
+	margin: 8px 0 10px 0
+}
+
+.tootoseo_help_text {
+	float: right;
+	clear: right
+}
+
+.tootoseo_head_nav {
+	float: right
+}
+
+.tootoseo_head_nav_tab {
+	margin: 0 15px 0 0;
+	float: right
+}
+
+.tootoseo_head_nav_tab:first-child {
+	margin-right: 0
+}
+
+.tootoseo_header {
+	float: right;
+	clear: right
+}
+
+.tootoseo_nopad {
+	padding-right: 0
+}
+
+.tootoseo_adverts {
+	float: left
+}
+
+.tootoseo_content {
+	clear: right
+}
+
+#aiosp_feature_manager_metabox.postbox {
+	float: right
+}
+
+.tootoseo_sidebar {
+	margin-left: 0;
+	margin-right: 10px
+}
+
+.tootoseo_option_label {
+	float: right !important;
+	clear: right !important;
+}
+
+.tootoseo_settings_left {
+	float: right;
+}
+
+.tootoseo_option_input {
+	float: left; /*clear: right !important;*/
+	padding-left: 0;
+	padding-right: 1px;
+	margin-bottom: 20px;
+	width: 60%;
+	min-width: 160px;
+}
+
+.tootoseo_top {
+	margin: 10px 0 0 10px
+}
+
+.tootoseo_right_sidebar {
+	float: left
+}
+
+div.tootoseo_feature {
+	float: right
+}
+
+.tootoseo_feature #free-flag {
+	float: left;
+	margin-right: 0;
+	background: none repeat scroll 0 0 #D23D46;
+	color: #FFFFFF;
+	padding: 5px 12px;
+	position: relative;
+}
+
+.tootoseo_feature #free-flag:before,
+.tootoseo_feature #free-flag:after {
+	display: none;
+}
+
+.tootoseo_feature .feature_button {
+	float: left;
+	margin-right: 0;
+	margin-left: 10px
+}
+
+.tootoseo_follow_button {
+	margin-right: 0;
+	margin-left: 5px
+}
+
+.tootoseo_wrapper {
+	padding-left: 0;
+	padding-right: 5px;
+	direction: rtl
+}
+
+.tootoseo_input {
+	clear: left
+}
+
+#aiosp div.preview_snippet {
+	padding: 15px 7px 20px 15px
+}
+
+#aiosp_sitemap_addl_pages,
+#aiosp_video_sitemap_addl_pages {
+	clear: right;
+	margin-left: 0;
+	margin-right: 20px
+}
+
+.All_in_One_SEO_Pack_Opengraph table.tootoseo_table {
+	border-left: 0 solid #dfdfdf;
+	border-right: 1px solid #dfdfdf
+}
+
+.All_in_One_SEO_Pack_Opengraph table.tootoseo_table th {
+	border-right: 0 solid #dfdfdf;
+	border-left: 1px solid #dfdfdf
+}
+
+.All_in_One_SEO_Pack_Opengraph table.tootoseo_table td {
+	border-right: 0 solid #dfdfdf;
+	border-left: 1px solid #dfdfdf
+}
+
+#aiosp_sitemap_addl_pages_metabox table.tootoseo_table td,
+#aiosp_video_sitemap_addl_pages_metabox table.tootoseo_table td {
+	padding-left: 0;
+	padding-right: 5%
+}
+
+.tootoseo_settings_left .postbox {
+	float: right
+}
+
+.tootoseo_option_setting_label {
+	padding-left: 0;
+	padding-right: 1px
+}
+
+.tootoseo_settings_left .postbox .inside {
+	clear: left
+}
+
+.postbox h2 .Taha {
+	float: left !important;
+}
+
+#aiosp_settings_form .tootoseo_no_label,
+.tootoseo_no_label {
+	float: right;
+	margin: 0 13px 0 23px
+}
+
+.tootoseo_module.error.below-h2 {
+	margin: 0 0 15px 477px !important
+}
+
+.robots img {
+	margin: 0 2px 0 0
+}
+
+/* Robots.txt styling */
+#aiosp_robots_generator_robotgen_wrapper .tootoseo_option_div,
+#aiosp_robots_generator_robothtml_wrapper .tootoseo_option_div {
+	margin-top: 10px;
+}
+
+div.tootoseo_notice a.tootoseo_dismiss_link {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	text-align: left;
+}
+
+/*
+.ButtonB{
+	border: 1px solid red !important;
+	float: left;
+	clear: right;
+
+}*/
+.tootoseo_help_text ul {
+	margin: 15px 20px 0 0
+}
+
+.tootoseo_header_tabs li a.tootoseo_header_tab {
+	margin: 5px 0 0 5px
+}
+
+.tootoseo_header_tabs li:first-child a.tootoseo_header_tab {
+	border-left: solid 0 #CCC;
+	border-right: solid 1px #CCC;
+	margin-left: 0;
+	margin-right: 5px
+}
+
+.tootoseo_tab {
+	padding-left: 0;
+	padding-right: 5px
+}
+
+form#aiosp_settings_form,
+.tootoseo_tabs_div {
+	padding-right: 0;
+	padding-left: 477px
+}
+
+#aiosp_settings_form ul.sfwd_debug_settings li strong {
+	float: right;
+	text-align: left;
+	margin-right: 0;
+	margin-left: 8px;
+	padding-right: 0;
+	padding-left: 8px
+}
+
+#aiosp_settings_form ul.sfwd_debug_settings li {
+	clear: right
+}
+
+.tootoseo_advert {
+	direction: rtl;
+	float: right;
+	z-index: 999999
+}
+
+.tootoseo_advert form input {
+	float: left
+}
+
+.MRL {
+	margin-left: 0 !important;
+	margin-right: 20px !important;
+}
+
+.tootoseo_upload_image_label {
+	clear: right !important;
+	float: none !important;
+}
+
+.tootoseo_upload_image_button {
+	float: right !important;
+	margin-bottom: 5px !important;
+}
+
+#tootoseo-about .tootoseo_metabox_text ul {
+	padding-right: 15px;
+}
